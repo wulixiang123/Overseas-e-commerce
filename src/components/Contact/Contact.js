@@ -38,7 +38,7 @@ const Contact = (props) => {
 
       <div className={styles.section}>
         <h4>Phone</h4>
-        <p>+1 424 280 4971</p>
+        <p>+130 8702 5166</p>
         <p>Monday to Friday - 9am - 5pm AEDT</p>
       </div>
 
